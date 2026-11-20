@@ -7,10 +7,10 @@
 <a href="https://github.com/rookanshu">
   <img src="https://img.shields.io/badge/GitHub-rookanshu-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/himanshu-bhandari/">
+<a href="https://www.linkedin.com/in/himanshu-bhandari-b2b18243a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
-<a href="https://proof-navy.vercel.app">
+<a href="https://himanshu-bhandari-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
